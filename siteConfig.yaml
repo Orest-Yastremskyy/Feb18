@@ -14,7 +14,7 @@ logo:
 toc:
   enable: true
 oasDefinitions:
-  # petstore: ./openapi/petstore.yaml
+  petstore: ./openapi/petstore.yaml
   testapi: https://api.redoc.ly/registry/bundle/testing_orest/Testapi3/v1/openapi.yaml?branch=master
   # add links to definitions in our API registry by using a fully qualified URL.
 stylesheets:
